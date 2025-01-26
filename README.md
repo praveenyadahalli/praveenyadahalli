@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenyadahalli&label=Profile%20views&color=0e75b6&style=flat" alt="praveenyadahalli" /> </p>
 
-- 🔭 I’m currently working on [Checkstyle](https://github.com/checkstyle/checkstyle)
+- 🔭 I’m currently contributing to [Checkstyle](https://github.com/checkstyle/checkstyle) and [Eclipse](https://github.com/eclipse-collections/eclipse-collections).
 
 - 🌱 I’m currently learning **Docker, Kubernates, Spring Boot**
 
