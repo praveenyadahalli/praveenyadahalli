@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **praveenya923@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UMktfE-NZIHrYmi9ZDq8fKqsvYKy8bDR/view?usp=drive_link](https://drive.google.com/file/d/1UMktfE-NZIHrYmi9ZDq8fKqsvYKy8bDR/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1I97qZqupLNOjS-cnyUq4-1VWao2xOIhf/view?usp=drive_link](https://drive.google.com/file/d/1I97qZqupLNOjS-cnyUq4-1VWao2xOIhf/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
