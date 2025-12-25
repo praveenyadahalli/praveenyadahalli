@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/praveenyadahalli](https://github.com/praveenyadahalli)
 
-- 📝 I regularly write articles on [https://www.vtuloop.com/](https://www.vtuloop.com/)
-
 - 📫 How to reach me **praveenya923@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1I97qZqupLNOjS-cnyUq4-1VWao2xOIhf/view?usp=drive_link](https://drive.google.com/file/d/1I97qZqupLNOjS-cnyUq4-1VWao2xOIhf/view?usp=drive_link)
