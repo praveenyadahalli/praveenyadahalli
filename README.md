@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **praveenya923@gmail.com**
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/1TXtjg0piK_9HISc67DBXEHXIMy175Wip/view?usp=drive_link)](https://drive.google.com/file/d/1TXtjg0piK_9HISc67DBXEHXIMy175Wip/view?usp=drive_link)
+- 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/1XXE53o796nUmQGdz5UdPM4vC9QfcZ8a_/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
